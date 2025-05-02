@@ -1,5 +1,5 @@
 ## Hi Saya Muhammad Suyuti 👋
-
+![suyuti](img/baner.jpg)
 <!--
 **Suyuti29/suyuti29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
