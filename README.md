@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 ![https://instagram.com/msoeyuti](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
 
 ###
-[![Suyuti GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyuti29)]
+![Suyuti GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyuti29)
