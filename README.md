@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ###
 ![Suyuti GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyuti29)
 
+###
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/Suyuti29/https://github.com/Suyuti29/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/Suyuti29/https://github.com/Suyuti29/output/pacman-contribution-graph.svg">
@@ -32,7 +33,4 @@ Here are some ideas to get you started:
 </picture>
 
 ###
-
-<img src="https://raw.githubusercontent.com/https://github.com/Suyuti29/https://github.com/Suyuti29/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/https://github.com/Suyuti29/https://github.com/Suyuti29/output/snake.svg" alt="Snake animation"/>
