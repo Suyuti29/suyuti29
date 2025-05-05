@@ -2,13 +2,13 @@
 ![suyuti](img/baner.jpg)
 
 ###
-<h2 align="left">About me</h2>
+<h2 align="left">Tentang saya</h2>
 
 ###
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Masih belajar coding <br>📚 Pengalaman bekerja di perusahaan manufaktur alas kaki<br>🎯 Pengen sukses<br>
 
 ###
-<h2 align="left">I code with</h2>
+<h2 align="left">Code</h2>
 
 ###
 <div align="left">
