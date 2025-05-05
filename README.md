@@ -30,7 +30,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
 -->
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,au&theme=light)](https://skillicons.dev)
 
 ###
 <picture>
