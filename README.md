@@ -5,7 +5,7 @@
 <h2 align="left">Tentang saya</h2>
 
 ###
-<p align="left">✨ Masih belajar coding <br>📚 Pengalaman bekerja di perusahaan manufaktur alas kaki<br>🎯 Pengen sukses<br>
+<p align="left">✨ Masih belajar ngoding... <br>📚 Pengalaman bekerja di perusahaan manufaktur alas kaki...<br>🎯 Pengen sukses...<br>
 
 ###
 <h2 align="left">Code</h2>
