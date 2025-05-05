@@ -19,9 +19,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>
 
 ###
-![https://instagram.com/msoeyuti](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)
-
-###
 ![Suyuti GitHub stats](https://github-readme-stats.vercel.app/api?username=Suyuti29)
 
 ###
