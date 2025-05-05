@@ -31,9 +31,9 @@
 
 ###
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/https://github.com/Suyuti29/https://github.com/Suyuti29/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/https://github.com/Suyuti29/https://github.com/Suyuti29/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/https://github.com/Suyuti29/https://github.com/Suyuti29/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suyuti29/Suyuti29/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suyuti29/Suyuti29/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Suyuti29/Suyuti29/output/pacman-contribution-graph.svg">
 </picture>
 
 
